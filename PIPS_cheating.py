@@ -14,6 +14,6 @@ def cheat(number):
         print("Solution: Use a string as an argument in the function and use an 'if-elif-else-statement' in the function")
     else:
         print("You have to this exercise by yourself!")
-# Give the number of the assignment you want to cheat on between the brackets, e.g. 2
 
+# Give the number of the assignment you want to cheat on between the brackets, e.g. 2
 cheat(2)
