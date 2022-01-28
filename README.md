@@ -13,4 +13,4 @@ The repository can be downloaded via the 'Download zip'button above.
 You can run the script by entering the number of the assignment you want to cheat on in the function. If you for example want to cheat on Q3.2P.5, you run the funtion with '5'. The function gives you a text with the solution for that certain assignment. 
 
 # License
-PIPS_cheating is licensed under 
+PIPS_cheating is licensed under MIT license.
