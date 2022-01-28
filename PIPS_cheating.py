@@ -1,7 +1,6 @@
 ## This function helps you to cheat on your PIPS assignment Q3.2P.1 - Q3.2P.5. Give the number of the assignment
 ## you want to cheat on in the function and you will get tips and tricks!!
 
-
 def cheat(number):
     if number == 1:
         print("Solution: Simulate data with 'np.random.normal' and use 'plt.boxplot' and 'sns.stripplot' for plotting.")
